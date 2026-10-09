@@ -39,7 +39,7 @@ from [ReplyNodes](https://replynodes.com/) and place it in `storage/` for the
 same indexing and search workflow:
 
 ```bash
-curl https://md.replynodes.com/https://example.com > storage/example.com.md
+curl -sS https://md.replynodes.com/stripe.com > storage/stripe.com.md
 ```
 
 This is complementary to the crawler: it provides a small, direct input path
